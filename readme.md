@@ -4,7 +4,7 @@ This repo contains a fictional video streaming service through which user can re
 
 Equivalence partitioning and boundry value test cases have been generated with the aim to maximize the test code coverage and capture the edge case bugs. 
 
-## Dictionary structure
+## Directory structure
 
 ```
 ├── build.xml: build file for project
